@@ -1,0 +1,107 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background: #cccfe5;
+}
+ .main{
+    margin:auto;
+    width: 960px;
+    height: 650px;
+    padding: 20px;
+ }
+
+ .logo{
+    width: 100%;
+    float: left;
+ }
+
+ .logoalura{
+    margin-top: 1%;
+    margin-left: 5%;
+    float:inherit;
+ }
+
+ .titulo{
+    float:inherit;
+    margin-left:15%;
+ }
+
+ .campo-texto{
+    float:left;
+    width:70%;
+    height: 70%;
+    border-radius: 24px;
+    border:none;
+    outline: none;
+    margin-top: 4%;
+    font-size: 20px;
+    background: #cccfe5;
+ }
+
+  .campo-mensaje{
+    float:right;
+    margin-top: -48%;
+    width:30%;
+    height: 80%;
+    border-radius: 24px;
+    background: white;
+  }
+
+ #campo-mensaje{
+    margin-left: 8%;
+    width: 90%;
+    border:none;
+    outline: none;
+    font-size: 15px;
+}
+#copiar{
+    margin-left:33%;
+    padding: 2px;
+    width: 40%;
+    height: 10%;
+    background: #224470;
+    border-radius: 24px;
+    display:none;
+   
+}
+
+
+ .btn{
+    float:left;
+    width: 70%;
+    height: 16%;
+    border-radius: 24px;
+}
+
+#muneco{
+    margin-left: 2%;
+    margin-top: 20%;
+    width: 90%;
+    height: auto;
+}
+
+#texto{
+    margin-left: 7%;
+    margin-right: 5%;
+}
+
+#btnEncriptar{
+    padding: 24px;
+    width:30%;
+    height: 50%;
+    border-radius: 24px;
+    margin-left: 15%;
+    background:#0A3871 ;
+}
+
+#btnDesencriptar{
+    padding: 24px;
+    width:30%;
+    height: 50%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background:#d8dfe8; ;
+}
+
+
+
